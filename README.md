@@ -1,7 +1,5 @@
 # Projeto de Comunicação Serial - Embarcatech
 
-![BitdogLab Logo](https://avatars.githubusercontent.com/u/144067367?v=4)
-
 Projeto desenvolvido para a disciplina de Sistemas Embarcados do curso Embarcatech, utilizando a placa BitDogLab.
 
 ## 📝 Descrição
@@ -26,6 +24,10 @@ Este projeto implementa um sistema de comunicação serial que integra diversos 
 - Display OLED SSD1306 via I2C (GPIO 14 e 15)
 - LED RGB (GPIOs 11, 12 e 13)
 - 2 Botões (GPIOs 5 e 6)
+
+## Vídeo demonstrativo:
+
+https://drive.google.com/uc?id=1ypUMNau5cq5APxYjEs_AwDcalmjkqLnI&export=download
 
 ## 🔧 Instalação
 
@@ -74,4 +76,6 @@ Contribuições são bem-vindas! Para contribuir:
 ## ✍️ Autor
 
 Guilherme Jr. - [Github](https://github.com/guilhermejnr)
+
+
 
