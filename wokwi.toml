@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/comunicacao_serialu4.uf2' 
+elf = 'build/comunicacao_serialu4.elf'
