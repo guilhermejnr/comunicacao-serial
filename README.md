@@ -27,7 +27,7 @@ Este projeto implementa um sistema de comunicação serial que integra diversos 
 
 ## Vídeo demonstrativo:
 
-https://drive.google.com/file/d/1ypUMNau5cq5APxYjEs_AwDcalmjkqLnI/view?usp=sharing
+https://drive.google.com/file/d/1I9CkKOoEM76Sh5OTnNva9x3-d7qZbl4g/view?usp=sharing
 
 ## 🔧 Instalação
 
